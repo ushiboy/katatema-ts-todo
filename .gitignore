@@ -1,0 +1,7 @@
+.idea/
+src/**/*.js
+src/**/*.js.map
+typings/**/
+node_modules/
+bower_components/
+gen/
